@@ -9,7 +9,7 @@ WASD - Movement
 
 Left Click - Interact / Examine / Pick up / Place down
 
-## Used Thrid-Party Assets
+## Used Third-Party Assets
 3D Assets:
 
 Hane Studios. (2024). Cigar Room Environment. [online] Fab. Available at: https://fab.com/s/8917b26bbb3f [Accessed 22 May 2026].
