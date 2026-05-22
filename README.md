@@ -3,6 +3,9 @@
 ## Overview
 A short escape room style experience. Solve a puzzle through examining and interacting with the environment to open the door.
 
+I do not have a unique Custom Substrate material in the project.
+Coversheet and screenshots from development in the root folder.
+
 ## How to Play
 Controls:
 
