@@ -4,7 +4,8 @@
 A short escape room style experience. Solve a puzzle through examining and interacting with the environment to open the door.
 
 ## How to Play
-Control:
+Controls:
+
 WASD - Movement
 
 Left Click - Interact / Examine / Pick up / Place down
